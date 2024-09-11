@@ -48,6 +48,7 @@ I'm an intellectually curious junior software engineer with a passion for backen
 -	Reading.  
 
 **Let’s Meet!**
+
 [LinkedIn](https://www.linkedin.com/in/joanna-gerich/) | [Email](mailto:joanna.gerich@googlemail.com)
 
 
