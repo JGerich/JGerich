@@ -7,8 +7,8 @@ I'm an intellectually curious junior software engineer with a passion for backen
 
 **Technical Skills Overview**
 -	Object-orientated projects
-*	Problem Solving: Input, Loops and Functions with Turtle
-- App building
+-	Problem Solving: Input, Loops and Functions with Turtle
+-	App building
 - Logic, lists, and dictionaries
 - Decision Making: Logic and If Statements
 - Files, Pip and APIs
