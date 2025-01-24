@@ -16,6 +16,7 @@ I'm an intellectually curious junior software engineer with a passion for backen
 - Files, Pip and APIs
 
 **Hard Skills**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 -	Python and Apps creation
 -	Learning C#
 -	Azure Cloud Services
