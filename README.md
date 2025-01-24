@@ -16,6 +16,7 @@ I'm an intellectually curious junior software engineer with a passion for backen
 - Files, Pip and APIs
 
 **Hard Skills**
+- https://camo.githubusercontent.com/d8d55d273c3158df011c44cf9777975f8a484eddfb2bc1dea50c74b9bb2717e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66742d3636363636363f7374796c653d666c6174266c6f676f3d6d6963726f736f6674266c6f676f436f6c6f723d7768697465
 -	Python and Apps creation
 -	Learning C#
 -	Azure Cloud Services
