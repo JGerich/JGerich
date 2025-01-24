@@ -17,12 +17,11 @@ I'm an intellectually curious junior software engineer with a passion for backen
 
 **Hard Skills**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
--	Python and Apps creation
--	Learning C#
--	Azure Cloud Services
--	Azure Active Directory
--	Azure Storage Accounts
--	Cloud Infrastructure
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white)
+
+- ![Azure](https://img.shields.io/badge/Azure-666666?style=flat&logo=MicrosoftAzure&logoColor=white)
+-	![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-1572B6?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
 
 **Soft Skills**
 -	Problem Solving
