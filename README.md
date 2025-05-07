@@ -51,7 +51,7 @@ __Tools & Practices__
 -	BA in Business Management: Professional Accounting
 -	4 years as an Associate of The Chartered Institute of Credit Management (CICM) in the UK.
 -	9 years of experience in mid-senior level Credit Control.
--	2 years of professional experience with Microsoft Azure, APIs, and Python app development.
+-	2 years of self-led study experience with Microsoft Azure, APIs, and Python app development.
 <br><br>
 
 **🔭Current Focus**
