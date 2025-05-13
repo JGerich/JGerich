@@ -16,7 +16,7 @@ __🛠Technical Skills__
 __Languages & Frameworks__
 <br>
 -  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-- React (JavaScript), Flask, Streamlit
+- Flask, Streamlit
 - REST APIs, Jinja2, HTML/CSS
 -  ![Azure](https://img.shields.io/badge/Azure-666666?style=flat&logo=MicrosoftAzure&logoColor=white)
 -  ![Cloud Infrastructure](https://img.shields.io/badge/Cloud%20Infrastructure-1572B6?style=for-the-badge&logo=Cloudflare&logoColor=white)
